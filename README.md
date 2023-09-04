@@ -4,7 +4,7 @@
 ## Description
 10 People - 3D Living_Face & Anti_Spoofing Data. The collection scenes is indoor scenes. The dataset includes males and females. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The device includes iPhone X, iPhone XR. The data diversity includes various expressions, facial postures, anti-spoofing samples, multiple light conditions, multiple scenes. This data can be used for tasks such as 3D face recognition, 3D Living_Face & Anti_Spoofing.
 
-For more details, please refer to the link: https://bit.ly/3E1oSSu
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1172?source=Github
 
 ## Data size:
 10 people, 126 groups (282 images) for each person
