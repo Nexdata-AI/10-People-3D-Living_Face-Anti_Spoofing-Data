@@ -34,4 +34,4 @@ iPhone of multiple models (iPhone X or more advanced iPhone models)
 label the person ID, race, gender, age, facial action, anti-spoofing type, light condition
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
